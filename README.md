@@ -7,7 +7,7 @@ This repository holds the code and results for my project titled "Multi-object t
 ## Experiment settings
 We perform trainings in 4 different settings utilizing different image resolutions and number of classes. The below figure describes our experiment settings.
 <p align="center">
-  <img width="600" height="320" src="https://github.com/hafizas101/visdrone-centertrack/blob/master/images/exp_settings.PNG">
+  <img width="500" height="200" src="https://github.com/hafizas101/visdrone-centertrack/blob/master/images/exp_settings.PNG">
 </p>
 
 ## Results
